@@ -1,0 +1,96 @@
+Speaking
+
+**In Speaking module, click the `Next` immediately after you complete the reading, otherwise system would judge you are not smooth if the blank time is over 3 seconds. Likewise, read within 3 seconds when the recording begins.**
+
+## RA: Read Aloud
+
+This module is very important. It contributes 35 marks towards reading and 35 marks to your speaking. **6-7 questions.**
+
+- Content -> 5 marks (**10%**)
+- **Fluency** -> 5 marks (Actually, fluency is the majoriy one, contributing **90%** of the 35 marks.)
+- Pronunciation -> 5 marks
+
+### Skills
+
+1. Skip difficult words: this is better than misread the word. 
+2. Speak 2 lines if you are really not confident of reading full.
+3. Not giving preference to "s" sounds. Like: galaxies, comets.
+4. When not sure of how to speak, either skip ot speak in your own way (But skip is better, it can get more marks).
+5. Give natual pauses for comma and full stop. Don't go fast and slow. Use natural speed, open mouth and speak, read with all the confidence.
+6. Pitch issues: Maintain 130 above for guy; Maintain 300 below for a girl. 
+
+## RS: Repeat Setence
+
+It contributes 30 marks towards speaking and 30 marks to your listening. **10-12 questions.**
+
+- **Fluency** -> 5 marks (**90%**)
+- Content -> 3 marks (**10%**)
+  - If 100% matches, 3/3
+  - If 50% matches, 2/3
+  - If less than 50% matches, 1/3
+  - If nothing matches, 1/3
+- Pronunciation -> 5 marks
+
+### Skills
+
+1. Speak 60% but fluently. Let's say if there are 13 words, if you cannot listen to all 13 words, then recommendation is listening to only 8 words and remember them and speak them fluently. (After the 8 words, close your ears. )
+2. Never fumble or hesitate. Don't worry about the content.
+3. Try to maintain the speaker's speed and pauses.
+4. Do not try to speak everything.
+
+## DI: Describe Image
+
+8-10 marks to speaking, 4-6 questions. Give you a picture and describe it in 40 seconds.
+
+- Fluency -> 5 marks (**90%**)
+- Pronunciation -> 5 marks (**10%**)
+- Content -> 5 marks (1%)
+
+### Skills
+
+1. Give preference to fluency alone.
+
+2. Not on the content. Not on the keyword. Not on the pronunciation.
+
+3. How to concentrate less on the keywords and more on fluency?
+
+   Answer is a template:![DI-Template01](imgs/DI-Template01.png)
+
+## RTL: Retell Lecture
+
+1-2 Questions. 8-10 marks to speaking and listening.  You will hear a lecture (2 minutes) and have 40 seconds to retell it.
+
+- No need to retell 40 seconds, the more you speak, the more error you might make. 25-30 seconds is good enough.
+
+### Skills
+
+1. No fumble, no hestitation. Fluency is the most important one.
+
+2. When you listen, don't write. When you write, don't listen.
+
+   - 5 seconds you listen, 5 seconds you write.
+
+   - Write 4-5 small phases instead of just keywords.
+
+3. Use the template and just speak like Read Aloud.![RL-Template01](imgs/RL-Template01.png)
+
+4. Worse case scenario: You only have written just 2 small phases.  **Repeat the templates with the phases you written**.
+
+## ASQ: Answer Short Question
+
+5-8 questions. Max 1-2 marks to listening and speaking. Not a priority. 
+
+### Skills
+
+1. Speak the answer if you know, else repeat the question.
+2. Not a priority. Don't pay too much time on this part.
+
+
+
+## SGD: Summarize Group Discussion
+
+### Skills
+
+## RAS: Respond A Situation
+
+### Skills
