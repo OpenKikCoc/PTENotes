@@ -25,3 +25,22 @@
 3. He landed a job in a very prestigious law firm.
 4. Photography can be really useful in geographical research.
 5. Conferences ought to be always scheduled two weeks in advance.
+
+## Day3
+
+1. Food containing ample calories provides little or  no nutritional value.
+2. Parents are financially responsible for their children right up until they reach adulthood.
+3. The other book isn't thorough but it's more insightful.
+   1. thorough: done completely; with greate attention to detail.
+   2. insightful: showing a clear understanding of a person or a situation. 
+4. Optional tutorials are offered in the final week of a term.
+5. All industries consist of systems of inputs, processes, outputs and feedback.
+
+## Day4
+
+1. The key difference between courses is the kind of assessment.
+2. The summer school program allows some students to accelerate their studies.
+3. The dance department stages elaborated performances each semester.
+   1. elaborated: very complicated and detailed. 
+4. Packaging is very important to attrack the attention of buyers.
+5. The course helps students to improve their pronunciation skills.
