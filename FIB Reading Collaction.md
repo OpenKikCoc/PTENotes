@@ -112,8 +112,42 @@ https://www.youtube.com/watch?v=1uf_ugfg9Vg
 1. social conditions
 1. in the garden context
 1. hold ideas
-1. so much opportunity (机会可以做不可恕名字，强调“机会”这个抽象概念)
+1. so much opportunity (机会可以做不可数名字，强调“机会”这个抽象概念)
 1. political society
 1. grand plan
 1. be native to
 1. bridge the gap between A and B
+1. progress on offer: 可购买/使用的项目
+1. criteria: 做出评判，选择，决定时使用的具体衡量条件；standards: 通用的规范准则
+1. apply oneself to sth./doing sth.
+1. compare to/with/against
+1. other than 除了...
+1. have a clear and precise image
+1. social mobility
+1. tear down
+1. fend for yourself  照顾自己
+1. from the point of view
+1. insects walk on water, snakes slither, and fish swim.
+     1. slither: to move somewhere in a smooth and controlled way, often close to the ground.
+1. evolved to [traverse] their environments
+1. maintain a DNA database/preserve a DNS
+1. chemical additives
+1. customer advocates 消费者权益倡导/消费者保护人士
+1. prey upon: 利用， 掠夺
+1. discover and grasp the world
+1. state the theory
+1. extend from... to...
+1. civilization / urbanization
+    1. The Mayan civilization came to an end.
+    1. Urbanization and industrialization are a pair of twin brothers.
+1. grand plans to shake up the hotel industry
+1. lose connection
+1. abide by: to dislike sb/sth so much that you hate having to be with or deal with them
+    1. I can't abide people with no sense of humour.
+1. aircraft == airplane
+1. tribute
+1. intriguing
+    1. to make sb very interested on sth
+    1. To secretly plan with others to harm sb
+1. a great deal of 
+1. 
