@@ -1,18 +1,18 @@
 **新增两种题型**
 
-- **Summarize Group Discussion**（总结小组讨论） [pearson-pte.com+2IPT Brisbane+2](https://www.pearson-pte.com/pte-academic-listening-material/big-pte-update-from-august-7-2025-everything-you-need-to-know/?utm_source=chatgpt.com)
-- **Respond to a Situation**（对情境作出回应） [pearson-pte.com+2ptepanacea.com+2](https://www.pearson-pte.com/pte-academic-listening-material/big-pte-update-from-august-7-2025-everything-you-need-to-know/?utm_source=chatgpt.com)
+- **Summarize Group Discussion**
+- **Respond to a Situation**
 
-**题型总数变成 22 种**（以前是 20 种） [AlfaPTE+1](https://alfapte.com/read-post/pte-academic-update-august-2025-new-question-types?utm_source=chatgpt.com)
+**题型总数变成 22 种**（以前是 20 种）
 
 **考试时间延长**
 
-- 总时间从 ~2 小时变成大约 **2 小时 15 分钟**。 [IPT Brisbane+2western-overseas.com+2](https://iptbrisbane.com.au/pearson-pte-updates-2025-new-features-question-types-and-test-experience/?utm_source=chatgpt.com)
-- Speaking & Writing 部分的问题数变多：65–75 题（之前 52–64） [ptepanacea.com+2AlfaPTE+2](https://ptepanacea.com/blog/detail/major-changes-in-pte-from-august-2025-what-you-need-to-know?utm_source=chatgpt.com)
+- 总时间从 ~2 小时变成大约 **2 小时 15 分钟**。
+- Speaking & Writing 部分的问题数变多：65–75 题（之前 52–64） 
 
 **评分机制引入混合评分（AI + 人工）**
 
-- 7 种任务现在部分由人工评分 “content/content coherence” + AI 评分。 [AlfaPTE+2English Wise+2](https://alfapte.com/read-post/pte-academic-update-august-2025-new-question-types?utm_source=chatgpt.com)
+- 7 种任务现在部分由人工评分 “content/content coherence” + AI 评分。 
 - 需要人工评分的任务包括：Describe Image, Retell Lecture, Summarize Spoken Text, Summarize Written Text, Essay, **新题型** Respond to a Situation 和 Summarize Group Discussion。
 
 
@@ -35,15 +35,13 @@ FIB 高频词搭配  每天看5个高频固定搭配 感受一下 collocation
 
 ### Writing
 
-SST: 目前是 30 个预测题，背诵他们！
+SWT: 目前是 30 个预测题，背诵他们！
 
 WE: 预测题目，猩际的预测题目。用的萤火虫的模板。
 
 ### Reading
 
 猩际精华预测背一下，很容易碰到原题
-
-SWT: 很简单
 
 ### Speaking
 
@@ -53,9 +51,25 @@ SGD: 信息量不多，第一句话的主题，最后一句话总结。
 
 DI: 一定要练熟，最重要！
 
-RS：一定要练！每天都要练
+RS：一定要练，每天都要练。
+
+- 输出一定要自信！让机器觉得你完全听懂了！流利度是最重要的。
+- 前期可以从高频题刷题。一道题读完后，就可以看原文。然后**跟读**（很重要）听不同的官方给的音源跟读，熟悉正确的发音。
+- 推荐🌟的流式刷题。10～20题一组，1-5组。一组练习结束后，将分数低于60%的句子挑出来，**逐个跟读**，固定搭配可以记录笔记。**跟读完成后，将这些句子再二刷**（可以做标记收藏）次日练 RS 可以从前一天的低分的句子进行二次练习。（分低的句子 跟读非常重要！尽量学习熟悉正确的发音！）
+- 注重抓次训练：只听自己听得出来的单词，放弃场音节词（很难读也难记 容易造成卡壳）
+- 练习舍弃！（做题技巧）一个句子无论多长，只记五个单词+最多结尾两个单词即可。内容分就已经够了，接下来就是保证流利输出。太贪心想记太多内容，会因为回想内容而导致容易卡壳丢掉流利分。自信大胆的把听到的仅有的几个单词流利连贯的说出来！
+- 对于完全听不清的，可以先看答案，跟读几遍后再听音，慢慢练习。
+- RS 复述的时候，每个单词的尾音不能全都重读，不然机器会算你卡顿。
+- 复述的时候，不要太快，要不单词识别不清晰。
+- 流刷结束后，有时间可以精练：
+  1. 背！短而常见的句子（大部分考这些）练到脱稿而出
+  2. 拆！长且简单的句子，不要练习一整句，练习简单长句的高频词组。
+  3. 注意：简单长句子并列结构很容易出错，顺序错也不给分。说出你最自信的部分即可！
+  4. 没听到的单词不要用sth 代替，不要说没听到的东西。
 
 ### Listening
 
 WFD: 背诵！每天50道？？
+
+SST:??
 

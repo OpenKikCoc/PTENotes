@@ -1,3 +1,5 @@
+# Business
+
 ## Day 1
 
 1. Thousands of people turned out ahead of the **prestigious** /pre'stɪdʒəs/ election.
@@ -96,7 +98,41 @@
 4. Many **university** lectures can now be viewed **on** the Internet.
 5. A visit to **the designed** museum is of great value.
 
+## Day11
 
+1. The **business** **policy** **seminar** **includes an internship** with **a loal** firm.
+2. Research shows the exercising maks **us** feel **better**.
+3. Food has become a political issue **in** the world today.
+4. The students **shop** **sells** a range of **stationery**.
+   1. stationery, meterials for writing and for using in an office.
+5. We can have a lecture on the morning **of** Thurday.
+6. The **year when the ship of** artifacts **were wrecked** interested historians.
+   1. Wreck, a ship that has sunk, a car has been badly damaged.
+7. New **media** have **transcended** traditional national **boundaries**.
+   1. transcended,  /trænˈsend/ to be or beyond the usual limit of sth.
+8. An effective **business** manager is always open to **new** ideas.
+9. New **materials and techniques are changing** the style of **modern architecture.** 
+10. It is a debate about the value of knowledge.
 
+## Day12
 
-
+1. Assignments **should** be submitted to the **department** office before the deadline.
+2. Students should take their time to study.
+3. Blue whales are the largest animals that have ever lived.
+4. The students will meet **their** new teachers after summer **vacation**.
+5. Graduates from **this** course typically **pursue careers** in **the** financial sector.
+6. Experts are now able to **forecast the weather over** much longer the periods.
+7. Many birds migrate to **warmer** areas from winter.
+8. It is **an integrated course** with several main elements.
+9. **Academic** libraries **across** the world **are steadily incorporating** social media.
+10. Plants **are** the living **things that can grow on land or in** water.
+11. Students are required to have an undergraduate degree **in** biology to **be enrolled in** this course.
+12. The placement **test** of **mathematics and statistics** is **offered every semester**.
+13. The student **advior** **was aware** that lecture today has been cancelled. 
+14. Crinimal **charges** will be **brought against** all of the men.
+15. Being a **vegan** means not consuming any animal products.
+16. Many universities' lectures can now be **reviewed** on the Internet.
+17. **Coastal communities are particularly vulnerable** to rising sea levels.
+18. Before the invention of refrigerator, people stored food in the underground ice house.
+19. In addition to lecture programs, you will be offered tutorials.
+20. This guide is qualified to lead the groups into the mountains.
