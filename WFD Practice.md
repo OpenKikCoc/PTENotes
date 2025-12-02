@@ -1,6 +1,4 @@
-# Business
-
-## Day 1
+Day 1
 
 1. Thousands of people turned out ahead of the **prestigious** /pre'stɪdʒəs/ election.
 
@@ -136,3 +134,51 @@
 18. Before the invention of refrigerator, people stored food in the underground ice house.
 19. In addition to lecture programs, you will be offered tutorials.
 20. This guide is qualified to lead the groups into the mountains.
+
+## Day13
+
+1. All of the assignments must be submitted **in person** to the **faculty** office.
+2. The **course places considerable emphasis on critical thinking** skills.
+   1. place considerable emphasis: collaboration, means "give high priority"
+3. **There** are more opportunities to receive the **grants** **in most artistic** fields.
+   1. receive the grants: received the financial support
+4. The garden behind the university **is** open to **the** public in summer.
+5. We cannot **consider an** increase in our **price** at this stage.
+6. The course **covers** architecture planning **and construction on** the international **scale**. 
+7. They developed a unique approach to training **their** employees.
+8. Experts **of** the financial department will give the guests a lecture.
+9. **Online** courses **allow** students to work at their own paces.
+   1. at one's pace
+10. You can get your coffee and tea **in** the **lounge**.
+
+## Day14
+
+1. The financial **market** **reacts widly** to **political uncertainty**.
+2. Packaging is very important to attract **intended** buyers.
+3. Peer review is **an essential part of** the scientific **method**.
+4. Being **bilingual** **dose** not necessarily **mean** having the **ability to analyze** the languages.
+5. Nowadays, accounting **is** far more important **for businesses** than ever before.
+6. The studenet magazine is looking for a new editor.
+7. **Mechanical engineering** first became **prominent** during the **Industrial** Revolution. 
+   1. prominent, /'prɑmɪnənt/, important or well known
+8. At that time, few people moved from the town to the village.
+9. These **regions were** both areas for **economic development**.
+10. The government financial plan has **threatened** to the social services.
+
+## Day15
+
+1. Some studies show the link between **depression** and **social** media.
+2. For the purpose of research, **data** should be **collected** and **analyzed**.
+3. New **deployements on manufacturing** are **constantly changing** the way we live.
+4. Farming methods across the world have **greatly** developed recently.
+5. Critical thinking is one part of **a broad** education.
+6. The **skills** of **great stage actors cannot be taught.**
+7. **Students** will develop confidence **in their ability** to **think critically**.
+8. Nutrition plays a key role **in** **athletic** performance.
+9. It is clear **that** the human population impacts the environment.
+10. The content is to **define** the **combination of** math and **philosophy**.
+11. The library has **a** number **of** collections **of historical and** socail **statisical** publications.
+12. Please close the door behind you when you leave the room.
+13. The staits are **to** the left of the elevator.
+14. Digital **scanners** can scan all kinds of materials **provided they are in** small pieces.
+15. Muscle **cells** **bring part of** the body **closer** together.
