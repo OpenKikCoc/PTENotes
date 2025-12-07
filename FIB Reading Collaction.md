@@ -107,16 +107,18 @@ https://www.youtube.com/watch?v=1uf_ugfg9Vg
 1. film sets
 1. Volcanoes blast more than 100 million tons of carbon dioxide into the atmosphere every year but the gas is usually **harmless**.
 1. Mayan civilization
+     1. civilization, a state of human society that is very developed and organized
+     1. urbanization,  都市化 城市化
 1. a period of
 1. Many modern musicals are known for their spectacular sets.
 1. social conditions
-1. in the garden context
+1. in the garden context: 在花园环境中
 1. hold ideas
 1. so much opportunity (机会可以做不可数名字，强调“机会”这个抽象概念)
 1. political society
 1. grand plan
 1. be native to
-1. bridge the gap between A and B
+1. bridge the gap between A and B: 消除A和B的鸿沟
 1. progress on offer: 可购买/使用的项目
 1. criteria: 做出评判，选择，决定时使用的具体衡量条件；standards: 通用的规范准则
 1. apply oneself to sth./doing sth.
@@ -128,7 +130,7 @@ https://www.youtube.com/watch?v=1uf_ugfg9Vg
 1. fend for yourself  照顾自己
 1. from the point of view
 1. insects walk on water, snakes slither, and fish swim.
-     1. slither: to move somewhere in a smooth and controlled way, often close to the ground.
+      1. slither: to move somewhere in a smooth and controlled way, often close to the ground.
 1. evolved to [traverse] their environments
 1. maintain a DNA database/preserve a DNS
 1. chemical additives
@@ -138,16 +140,21 @@ https://www.youtube.com/watch?v=1uf_ugfg9Vg
 1. state the theory
 1. extend from... to...
 1. civilization / urbanization
-    1. The Mayan civilization came to an end.
-    1. Urbanization and industrialization are a pair of twin brothers.
+      1. The Mayan civilization came to an end.
+      1. Urbanization and industrialization are a pair of twin brothers.
 1. grand plans to shake up the hotel industry
 1. lose connection
 1. abide by: to dislike sb/sth so much that you hate having to be with or deal with them
-    1. I can't abide people with no sense of humour.
+      1. I can't abide people with no sense of humour.
 1. aircraft == airplane
 1. tribute
 1. intriguing
-    1. to make sb very interested on sth
-    1. To secretly plan with others to harm sb
+      1. to make sb very interested on sth
+      1. To secretly plan with others to harm sb
 1. a great deal of 
+1. As mothers enter employment, they are likely to claim fewer benefits.
+      1. as 后面必须跟完整的句子：主语 + 谓语动词
+1. The earlier Paris has been **in part** a maze of narrow streets. (在一定程度上)
+1. simply razed: directly tear down
+1. These comprised.... 这是一个列举的常见句型  “这些包括：A，B，C”
 1. 

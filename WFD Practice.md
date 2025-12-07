@@ -182,3 +182,8 @@ Day 1
 13. The staits are **to** the left of the elevator.
 14. Digital **scanners** can scan all kinds of materials **provided they are in** small pieces.
 15. Muscle **cells** **bring part of** the body **closer** together.
+
+## Day16
+
+1. Our class will be divided into two groups, you will come with me, and the others will stay here.
+2. The economy is now showing the first sign of recovery.
