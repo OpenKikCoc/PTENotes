@@ -1,0 +1,12 @@
+version: '3.1'
+
+services:
+  ptenotes:
+    container_name: ptenotes
+    # build: ./
+    # command: docsify serve /docs
+    image: binacslee/ptenotes:latest
+    volumes:
+      - ./:/docs
+    ports:
+      - 3000:3000

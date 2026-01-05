@@ -1,0 +1,39 @@
+# Writing
+
+**SWT (25.5%) > WE (24%)**
+
+## SWT: Summarize Written Text
+
+1-2 questions, contributes 4-5 marks to writing and reading. Evaluation:
+
+- Focus more on content.
+- **If there is spelling error, get 0 mark; If grammer mistakes are, get 0 mark; If over 75 words, get 0 mark.**
+
+### Skills
+
+1. Copy 2 independent full sentences.
+2. Add a comma, connect between the two sentences.
+3. In the end: Put a full stop. If no fulle stop, got 0 mark.
+4. Grammar wrong, got 0 mark.
+   1. (s1) and (s2) but (s3).
+   2. While (s1), (s2); (s3).
+
+5. 40-50 words are enough.
+
+## WE: Write Essay
+
+Max 15 marks to writing. 1 question. Evaluation:
+
+- Form: 200-300 words
+- Development structure and coherence
+- Grammar
+- Spelling
+
+### Skills
+
+1. Use template. Content is important.
+3. 200-300 words are expected, otherwise the marks would be affected.
+
+Template: its development structure and coherence is perfect. 
+
+![WE-Template](https://raw.githubusercontent.com/OpenKikCoc/PTENotes/main/2_writing/imgs/WE-Template.png)
