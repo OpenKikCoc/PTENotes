@@ -1,5 +1,26 @@
 # Describe Image
 
+## 框架
+
+```
+The picture provides information about XXX.
+
+Looking at the graph, the first step is XXX.
+
+Furthermore, the second step shows XXX.
+
+In addition, we can see the third step is XXX.
+
+To finish the last step is XXX.
+
+In conclusion, this graph provides information about XXX.
+
+```
+
+find, see, observe
+
+moving on, furthermore, in addition, after that
+
 ## DI 整体答题原则
 
 1. 答题要言之有物

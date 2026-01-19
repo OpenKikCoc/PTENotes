@@ -6,15 +6,15 @@ SGD 每篇三个人对话，基本上就是说三轮，笔记需要记录每人�
 
 模板如下：
 
-Three people have a discussion on the topic of 主题词.
+**Three people have a discussion on the topic of** 主题词.
 
-According to the recording, to begin with, the first speaker mentions that 第一句话
+According to the recording, to begin with, **the first speaker mentions that** 第一句话
 
 Moreover, she/he says that 第二句话
 
 In addition,  she/he also talks about that 第三句话
 
-The second speaker shares similar/different views with the first speaker, saying that第一句话
+**The second speaker shares similar/different views with the first speaker, saying that** 第一句话
 
 (如果无法区分观点是否一致，就直接 the second speaker is saying that 第一句话)
 
@@ -22,7 +22,7 @@ She/he then talks about 第二句话
 
 After that, she/he refers to 第三句话
 
-As for the third speaker, her/his opinions are similar/different from the first speaker.
+**As for the third speaker, her/his opinions are similar/different from the first speaker.**
 
 She/he first mentions that 第一句话
 
@@ -30,4 +30,4 @@ And she/he also talks about 第二句话
 
 At the end of the discussion, he/she explains that 第三句话
 
-In conclusion, three people have a discussion on the topic of 主题词
+**In conclusion, three people have a discussion on the topic of** 主题词
